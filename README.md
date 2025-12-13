@@ -1,23 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hi 👋 I'm Agnesh K K  
+**XR Developer | Game Dev | CSE Student at PSG College of Technology**
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Agnesh!;" />
-</h1>
-
-
-## 🌐 Socials:
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
+I design and build immersive 3D & XR experiences that teach, entertain, and solve real problems. I prototype fast, playtest often, and ship things people actually enjoy using.
 
 
-# 💻 Tech Stack:
-###
+## 🚀 Current Focus
+
+- Building XR / AR / VR experiences with Unity and C# — rapid prototypes to playable demos.  
+- Crafting game mechanics and interactive simulations with practical impact.  
+- Exploring startup ideas in edtech, productivity, and immersive tools — looking to turn prototypes into products.
+
+
+## 💻 Tech Playground
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -49,10 +43,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-# 📊 GitHub Stats:
+
+## 🎯 2–3 Year Vision
+
+- Ship XR products that real users rely on — measurable learning or productivity gains.  
+- Launch or co-found a startup that scales immersive learning / productivity tools.  
+- Combine Unity, XR, and AI to build smarter spatial experiences and polished user flows.
+
+
+## 🔗 Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/agneshkk/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="42" style="margin-right: 12px;" alt="LinkedIn" />
+  </a>
+
+  <a href="https://agnesh.itch.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/itch.io/FA5C5C"
+         height="42" style="margin-right: 12px;" alt="itch.io" />
+  </a>
+
+  <a href="https://www.behance.net/agneshk" target="_blank">
+    <img src="https://cdn.simpleicons.org/behance/1769FF"
+         height="42" alt="Behance" />
+  </a>
+</div>
+
+
+## 📊 GitHub Pulse
+
 ![](https://github-readme-stats.vercel.app/api?username=Agnesh06&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Agnesh06&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnesh06&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
